@@ -30,9 +30,9 @@ A **Binary Search Tree** where:
 1. Create BST – User must first create a tree (choice 1).
 2. Insert Elements – Repeated insertion allowed (y/n prompt).
 3. Delete Elements – Handles:
-- Leaf node deletion.
-- Node with one child.
-- Node with two children (using inorder successor).
+ - Leaf node deletion.
+ - Node with one child.
+ - Node with two children (using inorder successor).
 4. Display Traversals – Shows inorder, preorder, and postorder traversals (choice 4).
 5. Find Minimum & Maximum – Navigates to leftmost/rightmost node to retrieve value.
 6. Search Elements – Confirms whether an element exists in the BST.
@@ -41,9 +41,9 @@ A **Binary Search Tree** where:
 ---
 
 ⚡ Complexity Analysis
-Operation	Best/Average Case	Worst Case
-Insert/Search/Delete:	O(log n) (balanced BST)	
-Traversals:	O(n) (visit each node once)
+Operation	(Best/Average Case)
+- Insert/Search/Delete:	O(log n) (balanced BST)	
+- Traversals:	O(n) (visit each node once)
 
 ---
 
