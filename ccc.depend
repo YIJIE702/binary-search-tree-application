@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1610176528 source:c:\users\user\desktop\ccc\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1610287999 source:c:\users\user\desktop\coding\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
+1610287999 source:c:\users\user\desktop\ekt 224 - algorithm and data structures\algorithm caa assignment 1\coding\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
