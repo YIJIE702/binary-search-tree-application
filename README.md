@@ -56,5 +56,5 @@ Operation	(Best/Average Case)
 ---
 
 📜 License
-This project was created for educational purposes under EKT 224 – Algorithm and Data Structures coursework.
-You are free to modify and use this code for learning, with proper credit to the original author.
+- This project was created for educational purposes under EKT 224 – Algorithm and Data Structures coursework.
+- You are free to modify and use this code for learning, with proper credit to the original author.
