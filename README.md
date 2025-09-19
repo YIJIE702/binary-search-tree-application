@@ -24,8 +24,6 @@ A **Binary Search Tree** where:
 - Right subtree contains nodes with keys **greater than** the parent.
 - Each node has at most **two children**.
 
----
-
 ### 📂 Program Flow
 1. Create BST – User must first create a tree (choice 1).
 2. Insert Elements – Repeated insertion allowed (y/n prompt).
@@ -40,20 +38,19 @@ A **Binary Search Tree** where:
 
 ---
 
-⚡ Complexity Analysis
+## ⚡ Complexity Analysis
 Operation	(Best/Average Case)
 - Insert/Search/Delete:	O(log n) (balanced BST)	
 - Traversals:	O(n) (visit each node once)
 
 ---
 
-📈 Suggested Improvements
+## 📈 Suggested Improvements
 - Graphical Tree Visualization – Show tree structure dynamically after insert/delete.
 - Unit Testing – Add automated tests for insert, delete, and search functions.
 - Error Handling – Better input validation for non-numeric input.
 - Balancing Algorithms – Implement AVL/Red-Black rotations for efficiency.
 
----
 
 📜 License
 - This project was created for educational purposes under EKT 224 – Algorithm and Data Structures coursework.
