@@ -2,23 +2,17 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "C/C++ Runner: Debug Session",
+      "name": "C++ Debug (gdb)",
       "type": "cppdbg",
       "request": "launch",
+      "program": "${fileDirname}/main.exe",
       "args": [],
       "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
       "externalConsole": true,
-      "cwd": "c:/Users/User/OneDrive/Desktop/binary-search-tree-application",
-      "program": "c:/Users/User/OneDrive/Desktop/binary-search-tree-application/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
-      "setupCommands": [
-        {
-          "description": "Enable pretty-printing for gdb",
-          "text": "-enable-pretty-printing",
-          "ignoreFailures": true
-        }
-      ]
+      "miDebuggerPath": "gdb"
     }
   ]
 }
