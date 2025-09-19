@@ -51,7 +51,8 @@ Operation	(Best/Average Case)
 - Error Handling – Better input validation for non-numeric input.
 - Balancing Algorithms – Implement AVL/Red-Black rotations for efficiency.
 
+---
 
-📜 License
+## 📜 License
 - This project was created for educational purposes under EKT 224 – Algorithm and Data Structures coursework.
 - You are free to modify and use this code for learning, with proper credit to the original author.
